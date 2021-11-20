@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClasModificatorWork/ClasModificatorWork.iml" filepath="$PROJECT_DIR$/ClasModificatorWork/ClasModificatorWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MakeAbbr/MakeAbbr.iml" filepath="$PROJECT_DIR$/MakeAbbr/MakeAbbr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MateAcademy.iml" filepath="$PROJECT_DIR$/MateAcademy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/averangeSalary/averangeSalary.iml" filepath="$PROJECT_DIR$/averangeSalary/averangeSalary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countColors/countColors.iml" filepath="$PROJECT_DIR$/countColors/countColors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countTheMonkey/countTheMonkey.iml" filepath="$PROJECT_DIR$/countTheMonkey/countTheMonkey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstCharLastChar/firstCharLastChar.iml" filepath="$PROJECT_DIR$/firstCharLastChar/firstCharLastChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/higestAndLowesAge/higestAndLowesAge.iml" filepath="$PROJECT_DIR$/higestAndLowesAge/higestAndLowesAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/markStringEnds/markStringEnds.iml" filepath="$PROJECT_DIR$/markStringEnds/markStringEnds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paginationServise/paginationServise.iml" filepath="$PROJECT_DIR$/paginationServise/paginationServise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remuveOddChars/remuveOddChars.iml" filepath="$PROJECT_DIR$/remuveOddChars/remuveOddChars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/robotsSort/robotsSort.iml" filepath="$PROJECT_DIR$/robotsSort/robotsSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semmySymbol/semmySymbol.iml" filepath="$PROJECT_DIR$/semmySymbol/semmySymbol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/willFighterWin/willFighterWin.iml" filepath="$PROJECT_DIR$/willFighterWin/willFighterWin.iml" />
+    </modules>
+  </component>
+</project>
