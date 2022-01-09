@@ -2,23 +2,44 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClasModificatorWork/ClasModificatorWork.iml" filepath="$PROJECT_DIR$/ClasModificatorWork/ClasModificatorWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileWork/FileWork.iml" filepath="$PROJECT_DIR$/FileWork/FileWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/MakeAbbr/MakeAbbr.iml" filepath="$PROJECT_DIR$/MakeAbbr/MakeAbbr.iml" />
       <module fileurl="file://$PROJECT_DIR$/MateAcademy.iml" filepath="$PROJECT_DIR$/MateAcademy.iml" />
       <module fileurl="file://$PROJECT_DIR$/averangeSalary/averangeSalary.iml" filepath="$PROJECT_DIR$/averangeSalary/averangeSalary.iml" />
       <module fileurl="file://$PROJECT_DIR$/bankDeposit/bankDeposit.iml" filepath="$PROJECT_DIR$/bankDeposit/bankDeposit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloneable/cloneable.iml" filepath="$PROJECT_DIR$/cloneable/cloneable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/countColors/countColors.iml" filepath="$PROJECT_DIR$/countColors/countColors.iml" />
       <module fileurl="file://$PROJECT_DIR$/countTheMonkey/countTheMonkey.iml" filepath="$PROJECT_DIR$/countTheMonkey/countTheMonkey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deleteNode/deleteNode.iml" filepath="$PROJECT_DIR$/deleteNode/deleteNode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elementSum/elementSum.iml" filepath="$PROJECT_DIR$/elementSum/elementSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employeeInformation/employeeInformation.iml" filepath="$PROJECT_DIR$/employeeInformation/employeeInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/equalsAndHashcode/equalsAndHashcode.iml" filepath="$PROJECT_DIR$/equalsAndHashcode/equalsAndHashcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factorial/factorial.iml" filepath="$PROJECT_DIR$/factorial/factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fibonachi/fibonachi.iml" filepath="$PROJECT_DIR$/fibonachi/fibonachi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filterList/filterList.iml" filepath="$PROJECT_DIR$/filterList/filterList.iml" />
       <module fileurl="file://$PROJECT_DIR$/firstCharLastChar/firstCharLastChar.iml" filepath="$PROJECT_DIR$/firstCharLastChar/firstCharLastChar.iml" />
       <module fileurl="file://$PROJECT_DIR$/fotballScore/fotballScore.iml" filepath="$PROJECT_DIR$/fotballScore/fotballScore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getAuthorOfTheBoock/getAuthorOfTheBoock.iml" filepath="$PROJECT_DIR$/getAuthorOfTheBoock/getAuthorOfTheBoock.iml" />
       <module fileurl="file://$PROJECT_DIR$/higestAndLowesAge/higestAndLowesAge.iml" filepath="$PROJECT_DIR$/higestAndLowesAge/higestAndLowesAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertNode/insertNode.iml" filepath="$PROJECT_DIR$/insertNode/insertNode.iml" />
       <module fileurl="file://$PROJECT_DIR$/markStringEnds/markStringEnds.iml" filepath="$PROJECT_DIR$/markStringEnds/markStringEnds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/market_supplying/market_supplying.iml" filepath="$PROJECT_DIR$/market_supplying/market_supplying.iml" />
       <module fileurl="file://$PROJECT_DIR$/paginationServise/paginationServise.iml" filepath="$PROJECT_DIR$/paginationServise/paginationServise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pair/pair.iml" filepath="$PROJECT_DIR$/pair/pair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/passwordValidation/passwordValidation.iml" filepath="$PROJECT_DIR$/passwordValidation/passwordValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/planeBuilder/planeBuilder.iml" filepath="$PROJECT_DIR$/planeBuilder/planeBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/remuveOddChars/remuveOddChars.iml" filepath="$PROJECT_DIR$/remuveOddChars/remuveOddChars.iml" />
       <module fileurl="file://$PROJECT_DIR$/robotToHome/robotToHome.iml" filepath="$PROJECT_DIR$/robotToHome/robotToHome.iml" />
       <module fileurl="file://$PROJECT_DIR$/robotsSort/robotsSort.iml" filepath="$PROJECT_DIR$/robotsSort/robotsSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/semmySymbol/semmySymbol.iml" filepath="$PROJECT_DIR$/semmySymbol/semmySymbol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/songOrder/songOrder.iml" filepath="$PROJECT_DIR$/songOrder/songOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userNotFoundExeption/test/test.iml" filepath="$PROJECT_DIR$/userNotFoundExeption/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userNotFoundExeption/userNotFoundExeption.iml" filepath="$PROJECT_DIR$/userNotFoundExeption/userNotFoundExeption.iml" />
       <module fileurl="file://$PROJECT_DIR$/willFighterWin/willFighterWin.iml" filepath="$PROJECT_DIR$/willFighterWin/willFighterWin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/writeBytesToFile/writeBytesToFile.iml" filepath="$PROJECT_DIR$/writeBytesToFile/writeBytesToFile.iml" />
     </modules>
   </component>
 </project>

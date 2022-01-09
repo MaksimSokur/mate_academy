@@ -1,9 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/userNotFoundExeption/test/pom.xml" />
+        <option value="$PROJECT_DIR$/passwordValidation/pom.xml" />
+        <option value="$PROJECT_DIR$/FileWork/pom.xml" />
+        <option value="$PROJECT_DIR$/writeBytesToFile/pom.xml" />
+        <option value="$PROJECT_DIR$/cloneable/pom.xml" />
+        <option value="$PROJECT_DIR$/equalsAndHashcode/pom.xml" />
+        <option value="$PROJECT_DIR$/planeBuilder/pom.xml" />
+        <option value="$PROJECT_DIR$/factorial/pom.xml" />
+        <option value="$PROJECT_DIR$/fibonachi/pom.xml" />
+        <option value="$PROJECT_DIR$/songOrder/pom.xml" />
+        <option value="$PROJECT_DIR$/pair/pom.xml" />
+        <option value="$PROJECT_DIR$/ArrayList/pom.xml" />
+        <option value="$PROJECT_DIR$/list/pom.xml" />
+        <option value="$PROJECT_DIR$/elementSum/pom.xml" />
+        <option value="$PROJECT_DIR$/filterList/pom.xml" />
+        <option value="$PROJECT_DIR$/insertNode/pom.xml" />
+        <option value="$PROJECT_DIR$/deleteNode/pom.xml" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectKey">
     <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressABINotification">
+    <option name="modulesWithSuppressedNotConfigured">
+      <set>
+        <option value="pair" />
+      </set>
+    </option>
   </component>
 </project>

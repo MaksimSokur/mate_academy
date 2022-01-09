@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test" />
+        <module name="fibonachi" />
+        <module name="songOrder" />
+        <module name="factorial" />
+        <module name="deleteNode" />
+        <module name="ArrayList" />
+        <module name="insertNode" />
+        <module name="FileWork" />
+        <module name="cloneable" />
+        <module name="equalsAndHashcode" />
+        <module name="passwordValidation" />
+        <module name="pair" />
+        <module name="writeBytesToFile" />
+        <module name="elementSum" />
+        <module name="filterList" />
+        <module name="planeBuilder" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ArrayList" target="17" />
+      <module name="cloneable" target="17" />
+      <module name="deleteNode" target="17" />
+      <module name="elementSum" target="17" />
+      <module name="equalsAndHashcode" target="17" />
+      <module name="factorial" target="17" />
+      <module name="fibonachi" target="17" />
+      <module name="FileWork" target="17" />
+      <module name="filterList" target="17" />
+      <module name="insertNode" target="17" />
+      <module name="pair" target="17" />
+      <module name="passwordValidation" target="17" />
+      <module name="planeBuilder" target="17" />
+      <module name="songOrder" target="17" />
+      <module name="test" target="17" />
+      <module name="userNotFoundException" target="17" />
+      <module name="writeBytesToFile" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
